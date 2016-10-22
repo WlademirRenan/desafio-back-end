@@ -1,3 +1,0 @@
-@import "bootstrap";
-body { padding-top: 65px; }
-/*@import "bootstrap-responsive"*/

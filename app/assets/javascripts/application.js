@@ -14,7 +14,6 @@
 //= require jquery_ujs
 //= require bootstrap.min
 //= require turbolinks
-//= require bootstrap
 //= require jquery-jvectormap-1.2.2.min
 //= require jquery-jvectormap-world-mill-en
 //= require jquery.sparkline
@@ -31,4 +30,9 @@
 //= require jquery.slimscroll
 //= require toastr.min
 //= require app
+//= require bootstrap
 //= require_tree .
+
+$(document).ready(function() {
+    $(".dropdown-toggle").dropdown();
+});
