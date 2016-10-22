@@ -4,9 +4,9 @@
   <!-- Logo -->
   <a href="/" class="logo">
     <!-- mini logo for sidebar mini 50x50 pixels -->
-    <span class="logo-mini"><b>A</b>LT</span>
+    <span class="logo-mini"><%= image_tag('logo_mini.png') %></span>
     <!-- logo for regular state and mobile devices -->
-    <span class="logo-lg"><b>Admin</b>LTE</span>
+    <span class="logo-lg"><%= image_tag('logo_pequeno2.png') %></span>
   </a>
 
   <!-- Header Navbar -->
@@ -115,18 +115,19 @@
             <!-- The user image in the navbar-->
             <img src="/assets/user2-160x160.jpg" class="user-image" alt="User Image"/>
             <!-- hidden-xs hides the username on small devices so only the image appears. -->
-            <span class="hidden-xs">Alexander Pierce</span>
+            <span class="hidden-xs"><%= current_user.login.capitalize %></span>
           </a>
           <ul class="dropdown-menu">
             <!-- The user image in the menu -->
             <li class="user-header">
               <img src="/assets/user2-160x160.jpg" class="img-circle" alt="User Image" />
               <p>
-                Alexander Pierce - Web Developer
+                <%= current_user.login.capitalize %> - Web Developer
                 <small>Member since Nov. 2012</small>
               </p>
             </li>
             <!-- Menu Body -->
+            <!--
             <li class="user-body">
               <div class="col-xs-4 text-center">
                 <a href="#">Followers</a>
@@ -138,10 +139,11 @@
                 <a href="#">Friends</a>
               </div>
             </li>
+            -->
             <!-- Menu Footer-->
             <li class="user-footer">
               <div class="pull-left">
-                <a href="#" class="btn btn-default btn-flat">Profile</a>
+                <a href="#" class="btn btn-default btn-flat">Meu Perfil</a>
               </div>
               <div class="pull-right">
                 <%= link_to('Sair', destroy_user_session_path, :method=>'delete', class: "btn btn-default btn-flat") %>
@@ -149,6 +151,7 @@
             </li>
           </ul>
         </li>
+        <li>&nbsp;&nbsp;&nbsp;&nbsp;</li>
       </ul>
     </div>
   </nav>
