@@ -28,7 +28,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>desafio-back-end/README.md at master · WlademirRenan/desafio-back-end</title>
+  <title>desafio-back-end/CNAB.txt at master · WlademirRenan/desafio-back-end</title>
     <meta name="description" content="A idéia deste desafio é nos permitir avaliar melhor as habilidades de candidatos à vagas de programador, de vários níveis. - WlademirRenan/desafio-back-end">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -38,10 +38,10 @@
     <meta property="og:image" content="https://avatars0.githubusercontent.com/u/16175543?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="WlademirRenan/desafio-back-end" /><meta property="og:url" content="https://github.com/WlademirRenan/desafio-back-end" /><meta property="og:description" content="A idéia deste desafio é nos permitir avaliar melhor as habilidades de candidatos à vagas de programador, de vários níveis. - WlademirRenan/desafio-back-end" />
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NDAxMDQyNzE3OjliMWU0NTBkYzA2NzY1YmMwMWExNzA5YTExNDdmMzQ4MGNmZWJkMWVlYmNjZjYzOTkxNGMwODlmNDMwMjJjOTc=--a84c94a659d3ed2364cd9aa47b1c6048c4e6595f">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NDAxMDQyNzE3Ojc1MTUzNTE5MzM4YTQ4MDNkNjQyZjU3YmFkZTkxZTYyNzliYjU2ZTQ3ZDUzNjIxN2E2MzY5NTA1ZjU1ZGNkYzQ=--314558b96712349645b26014399e6b9dab5d2c4a">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="E833:3EBF:1493F5D:22BC75A:5CD06468" data-pjax-transient>
+  <meta name="request-id" content="E833:3EBF:149372C:22BC382:5CD06461" data-pjax-transient>
 
 
   
@@ -52,7 +52,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="E833:3EBF:1493F5D:22BC75A:5CD06468" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="16175543" /><meta name="octolytics-actor-login" content="WlademirRenan" /><meta name="octolytics-actor-hash" content="e07be78e028d22783b5201622b593a9a5005891a54b675ed42d923ba9994569e" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="E833:3EBF:149372C:22BC382:5CD06461" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="16175543" /><meta name="octolytics-actor-login" content="WlademirRenan" /><meta name="octolytics-actor-hash" content="e07be78e028d22783b5201622b593a9a5005891a54b675ed42d923ba9994569e" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -71,7 +71,7 @@
     <meta name="user-login" content="WlademirRenan">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="MmE4NGY3YjAzODE1ODZiZjY0NzY1NGRmN2JiNzE5NWNhMzdiMDUxOTdlMzE2NDdhMTVlZDE4ZTU3YzkyYzUwMnx7InJlbW90ZV9hZGRyZXNzIjoiMTc3LjY0LjQwLjEzOCIsInJlcXVlc3RfaWQiOiJFODMzOjNFQkY6MTQ5M0Y1RDoyMkJDNzVBOjVDRDA2NDY4IiwidGltZXN0YW1wIjoxNTU3MTYxMDg4LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+    <meta name="js-proxy-site-detection-payload" content="MGUyYjBhZWQwODc0NTdkOGIzZjliOTdiZGI4ZjY1MTI4Y2Q3Y2FhZjNjZmQzYTkzMGUyNTdkZjgxYTRlNjcxOXx7InJlbW90ZV9hZGRyZXNzIjoiMTc3LjY0LjQwLjEzOCIsInJlcXVlc3RfaWQiOiJFODMzOjNFQkY6MTQ5MzcyQzoyMkJDMzgyOjVDRDA2NDYxIiwidGltZXN0YW1wIjoxNTU3MTYxMDYzLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
     <meta name="enabled-features" content="UNIVERSE_BANNER,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,NOTIFY_ON_BLOCK,RELATED_ISSUES">
 
@@ -87,7 +87,7 @@
   <meta name="octolytics-dimension-user_id" content="16175543" /><meta name="octolytics-dimension-user_login" content="WlademirRenan" /><meta name="octolytics-dimension-repository_id" content="185200140" /><meta name="octolytics-dimension-repository_nwo" content="WlademirRenan/desafio-back-end" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="true" /><meta name="octolytics-dimension-repository_parent_id" content="184410031" /><meta name="octolytics-dimension-repository_parent_nwo" content="Pagnet/desafio-back-end" /><meta name="octolytics-dimension-repository_network_root_id" content="184410031" /><meta name="octolytics-dimension-repository_network_root_nwo" content="Pagnet/desafio-back-end" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="true" />
 
 
-    <link rel="canonical" href="https://github.com/WlademirRenan/desafio-back-end/blob/master/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/WlademirRenan/desafio-back-end/blob/master/CNAB.txt" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -157,7 +157,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search or jump to…"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=utbpMx113v9Ar3surOumFcN9RS9vIOdj3EJ0N7a6F338RpjB3DOyErU+Sd5b3VXDgSufyKN7UlsOiL0A/ymojQ=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=bMoIkdeUs+0EpKftWnoyCiZG/0chDBKwsl2LY2xmUkUqWnljFtLfAPE1lR2tTMHcZBAloO1Xp4hgl0JUJfXttQ=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -307,7 +307,7 @@
       <img class="avatar" src="https://avatars0.githubusercontent.com/u/16175543?s=40&amp;v=4" width="20" height="20" alt="@WlademirRenan" />
       WlademirRenan
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="je3TIjp+sifs3yoIMj29QNJE8LuJ2rNEYRSzP0C16AECWHTbPDPDwbTmDoZfUjVP8A6Lf27LqYJbhUCrFoOg5A==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="bXa+Ap6lMglSpRc2/VO/VvnMkFNlBMj7uP5zrM69eNHiwxn7mOhD7wqcM7iQPDdZ24brl4IV0j2Cb4A4mIswNA==" />
       <button type="submit" class="Header-link mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15 d-lg-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 9V7H8V5h4V3l4 3-4 3zm-2 3H6V3L2 1h8v3h1V1c0-.55-.45-1-1-1H1C.45 0 0 .45 0 1v11.38c0 .39.22.73.55.91L6 16.01V13h4c.55 0 1-.45 1-1V8h-1v4z"/></svg>
         Sign out
@@ -396,7 +396,7 @@
     border
   " data-team-hovercards-enabled>
   <details class="js-user-status-details details-reset details-overlay details-overlay-dark">
-    <summary class="btn-link btn-block link-gray no-underline js-toggle-user-status-edit toggle-user-status-edit " aria-haspopup="dialog" role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:16175543,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:16175543,&quot;client_id&quot;:&quot;701413094.1552794034&quot;,&quot;originating_request_id&quot;:&quot;E833:3EBF:1493F5D:22BC75A:5CD06468&quot;,&quot;originating_url&quot;:&quot;https://github.com/WlademirRenan/desafio-back-end/blob/master/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/WlademirRenan/desafio-back-end&quot;}}" data-hydro-click-hmac="bd397e0ec6c0a336f96cef303a75ad8fc0d7ca84632856f360c3850d3001bce5">
+    <summary class="btn-link btn-block link-gray no-underline js-toggle-user-status-edit toggle-user-status-edit " aria-haspopup="dialog" role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:16175543,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:16175543,&quot;client_id&quot;:&quot;701413094.1552794034&quot;,&quot;originating_request_id&quot;:&quot;E833:3EBF:149372C:22BC382:5CD06461&quot;,&quot;originating_url&quot;:&quot;https://github.com/WlademirRenan/desafio-back-end/blob/master/CNAB.txt&quot;,&quot;referrer&quot;:&quot;https://github.com/WlademirRenan/desafio-back-end&quot;}}" data-hydro-click-hmac="ac72a4c64333840503dcf36271921102f2c74c591c07e712128223d1a101b361">
       <div class="d-flex">
         <div class="f6 lh-condensed user-status-header
           d-inline-block v-align-middle
@@ -422,7 +422,7 @@
         </div>
       </div>
 </summary>    <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="kUpWEZ5lOPncZzsweLd5ott73340FG6swzKUVWH9r+7nb2ACnqUZK/NnK9Iy0SsNr1ic/l94+cYrXq9XjzJQIg==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="JrEUgoZg6/cBev+oldwKrD/m+dqtXVCdEBMM8pvoS8JQlCKRhqDKJS5670rfulgDS8W6WsYxx/f4fzfwdSe0Dg==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
@@ -534,17 +534,17 @@
       </li>
       <li class="dropdown-divider" role="none"></li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2019-05-06T14:14:48-03:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2019-05-06T14:14:23-03:00">
             in 30 minutes
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2019-05-06T14:44:48-03:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2019-05-06T14:44:23-03:00">
             in 1 hour
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2019-05-06T17:44:48-03:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2019-05-06T17:44:23-03:00">
             in 4 hours
           </button>
         </li>
@@ -592,7 +592,7 @@
     <div role="none" class="dropdown-divider"></div>
     <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
     <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Gaigtk5gPlAr+h85RLT8lVEV15OAmxhDr0cs9gL224WWHQdPSC1PtnPDO7cp23Sac1+sV2eKAoWV1t9iVMCTYA==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="LOl/FVNZg1rW6qoD6l1L2qULYw2ihw/piZk+v3pUn0CjXNjsVRTyvI7Tjo2HMsPVh0EYyUWWFS+zCM0rLGLXpQ==" />
       
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
         Sign out
@@ -639,10 +639,10 @@
 
   <li>
     
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Bjc+j9VyiSoi7hNl6u939ItYC9EH/TAvWpJW3jFhZkoDBwvSECL1vI4mCX0x1LD95xXWoAwY+wHJSH6f3L9ilg==" />      <input type="hidden" name="repository_id" value="185200140">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="SBEw4eTbDh/lh0TeZgCgp24leNd7oCdT7LZnsszjO59NIQW8IYtyiUlPXsa9O2euAmilpnBF7H1/bE/zIT0/Qw==" />      <input type="hidden" name="repository_id" value="185200140">
 
       <details class="details-reset details-overlay select-menu float-left">
-        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:185200140,&quot;client_id&quot;:&quot;701413094.1552794034&quot;,&quot;originating_request_id&quot;:&quot;E833:3EBF:1493F5D:22BC75A:5CD06468&quot;,&quot;originating_url&quot;:&quot;https://github.com/WlademirRenan/desafio-back-end/blob/master/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/WlademirRenan/desafio-back-end&quot;,&quot;user_id&quot;:16175543}}" data-hydro-click-hmac="59b57a0af7850e0bf48343f47489235f2e502bce58765f12c36ad5ee51e89bdc" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
+        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:185200140,&quot;client_id&quot;:&quot;701413094.1552794034&quot;,&quot;originating_request_id&quot;:&quot;E833:3EBF:149372C:22BC382:5CD06461&quot;,&quot;originating_url&quot;:&quot;https://github.com/WlademirRenan/desafio-back-end/blob/master/CNAB.txt&quot;,&quot;referrer&quot;:&quot;https://github.com/WlademirRenan/desafio-back-end&quot;,&quot;user_id&quot;:16175543}}" data-hydro-click-hmac="0908578cb52bb92816af281bdd2c24887da3a6d0fa1fe1f06a87d58758b4994e" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
               <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
               Unwatch
           </span>
@@ -713,18 +713,18 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/WlademirRenan/desafio-back-end/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="1RZLy4tRQfhJ4S5KH8B0u+RVS6hj52pwIhILCRBfZ4uNIP7eXeQ+f2epmO8AecU7NqNcu7b9iQFiP3rGDlrZWg==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/WlademirRenan/desafio-back-end/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="FqvUb5ud5wh9Apj+W2uCaS8sZnJNJ/NBRjrIG3elGXtOnWF6TSiYj1NKLltE0jPp/dpxYZg9EDAGF7nUaaCnqg==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar WlademirRenan/desafio-back-end" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:185200140,&quot;client_id&quot;:&quot;701413094.1552794034&quot;,&quot;originating_request_id&quot;:&quot;E833:3EBF:1493F5D:22BC75A:5CD06468&quot;,&quot;originating_url&quot;:&quot;https://github.com/WlademirRenan/desafio-back-end/blob/master/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/WlademirRenan/desafio-back-end&quot;,&quot;user_id&quot;:16175543}}" data-hydro-click-hmac="9181602f204afb3c80041ecc54adbe203fc7b465978558dd8117e5e3c308cad1" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar WlademirRenan/desafio-back-end" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:185200140,&quot;client_id&quot;:&quot;701413094.1552794034&quot;,&quot;originating_request_id&quot;:&quot;E833:3EBF:149372C:22BC382:5CD06461&quot;,&quot;originating_url&quot;:&quot;https://github.com/WlademirRenan/desafio-back-end/blob/master/CNAB.txt&quot;,&quot;referrer&quot;:&quot;https://github.com/WlademirRenan/desafio-back-end&quot;,&quot;user_id&quot;:16175543}}" data-hydro-click-hmac="5922b8fc68b3b54ab959a5a2be92870d80d715ebb1d3788d2a9e6b36e5740318" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Unstar
 </button>        <a class="social-count js-social-count" href="/WlademirRenan/desafio-back-end/stargazers"
            aria-label="0 users starred this repository">
           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/WlademirRenan/desafio-back-end/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="GmyeHaFr9Ovlt8Wn3V+/0NDhKpDFXGI5I81TM6lIsj+aIsDrV0ouP9Te+yrLXD+eySDM1IVDEFNbHbmnOuKF0Q==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/WlademirRenan/desafio-back-end/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="SZy6Fsici8qnW9jrwqdCwkkdW1cT9bFgcH8tGuG7wuDJ0uTgPr1RHpYy5mbUpMKMUNy9E1PqwwoIr8eOchH1Dg==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star WlademirRenan/desafio-back-end" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:185200140,&quot;client_id&quot;:&quot;701413094.1552794034&quot;,&quot;originating_request_id&quot;:&quot;E833:3EBF:1493F5D:22BC75A:5CD06468&quot;,&quot;originating_url&quot;:&quot;https://github.com/WlademirRenan/desafio-back-end/blob/master/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/WlademirRenan/desafio-back-end&quot;,&quot;user_id&quot;:16175543}}" data-hydro-click-hmac="0d43a70c86a4622d4312c6273033a18991fbc7f1dc5505e312b12c16fa126400" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star WlademirRenan/desafio-back-end" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:185200140,&quot;client_id&quot;:&quot;701413094.1552794034&quot;,&quot;originating_request_id&quot;:&quot;E833:3EBF:149372C:22BC382:5CD06461&quot;,&quot;originating_url&quot;:&quot;https://github.com/WlademirRenan/desafio-back-end/blob/master/CNAB.txt&quot;,&quot;referrer&quot;:&quot;https://github.com/WlademirRenan/desafio-back-end&quot;,&quot;user_id&quot;:16175543}}" data-hydro-click-hmac="b2c53e179ed8a658a3b5957f102b3a0f0316cd75ef2304edfde6a42b3a627165" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Star
 </button>        <a class="social-count js-social-count" href="/WlademirRenan/desafio-back-end/stargazers"
            aria-label="0 users starred this repository">
@@ -855,9 +855,9 @@
 
 
   
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/WlademirRenan/desafio-back-end/blob/ffe7d8198ed73a033ec7acb3ec7ee624db7cdd8f/README.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/WlademirRenan/desafio-back-end/blob/ffe7d8198ed73a033ec7acb3ec7ee624db7cdd8f/CNAB.txt">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v21:d6c2534c01d5147bda6533f76166a033 -->
+    <!-- blob contrib key: blob_contributors:v21:a0ebaab6e1effa09cc4ca6cc2d2232eb -->
       
 
     <div class="d-flex flex-items-start mb-3 flex-column flex-md-row">
@@ -872,7 +872,7 @@
     <span class="css-truncate-target">master</span>
   </summary>
 
-  <details-menu class="select-menu-modal hx_rsm-modal position-absolute" style="z-index: 99;" src="/WlademirRenan/desafio-back-end/ref-list/master/README.md?source_action=show&amp;source_controller=blob" preload>
+  <details-menu class="select-menu-modal hx_rsm-modal position-absolute" style="z-index: 99;" src="/WlademirRenan/desafio-back-end/ref-list/master/CNAB.txt?source_action=show&amp;source_controller=blob" preload>
     <include-fragment class="select-menu-loading-overlay anim-pulse">
       <svg height="32" class="octicon octicon-octoface" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"/></svg>
     </include-fragment>
@@ -886,13 +886,13 @@
                 data-hotkey="t">
             Find file
           </a>
-          <clipboard-copy value="README.md" class="btn btn-sm BtnGroup-item">
+          <clipboard-copy value="CNAB.txt" class="btn btn-sm BtnGroup-item">
             Copy path
           </clipboard-copy>
         </div>
       </span>
       <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal flex-md-self-center ml-md-2 mr-md-3 my-2 my-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment"><a data-pjax="true" href="/WlademirRenan/desafio-back-end"><span>desafio-back-end</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment"><a data-pjax="true" href="/WlademirRenan/desafio-back-end"><span>desafio-back-end</span></a></span></span><span class="separator">/</span><strong class="final-path">CNAB.txt</strong>
       </h2>
 
       <div class="BtnGroup flex-shrink-0 d-none d-md-inline-block">
@@ -902,7 +902,7 @@
               data-hotkey="t">
           Find file
         </a>
-        <clipboard-copy value="README.md" class="btn btn-sm BtnGroup-item">
+        <clipboard-copy value="CNAB.txt" class="btn btn-sm BtnGroup-item">
           Copy path
         </clipboard-copy>
       </div>
@@ -917,12 +917,12 @@
           <a rel="contributor" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=1027336" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/SauloSilva"><img class="avatar" src="https://avatars2.githubusercontent.com/u/1027336?s=40&amp;v=4" width="20" height="20" alt="@SauloSilva" /></a>
           <a class="text-bold link-gray-dark lh-default v-align-middle" rel="contributor" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=1027336" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/SauloSilva">SauloSilva</a>
             <span class="lh-default v-align-middle">
-              <a data-pjax="true" title="Update README.md" class="link-gray" href="/WlademirRenan/desafio-back-end/commit/ffe7d8198ed73a033ec7acb3ec7ee624db7cdd8f">Update README.md</a>
+              <a data-pjax="true" title="Update CNAB.txt" class="link-gray" href="/WlademirRenan/desafio-back-end/commit/2a8aa2e6bf7ec3e554ec4f08bb039725a7b44624">Update CNAB.txt</a>
             </span>
         </span>
         <span class="d-inline-block flex-shrink-0 v-align-bottom f6 mt-2 mt-md-0">
-          <a class="pr-2 text-mono link-gray" href="/WlademirRenan/desafio-back-end/commit/ffe7d8198ed73a033ec7acb3ec7ee624db7cdd8f" data-pjax>ffe7d81</a>
-          <relative-time datetime="2019-05-01T13:47:18Z">May 1, 2019</relative-time>
+          <a class="pr-2 text-mono link-gray" href="/WlademirRenan/desafio-back-end/commit/2a8aa2e6bf7ec3e554ec4f08bb039725a7b44624" data-pjax>2a8aa2e</a>
+          <relative-time datetime="2019-05-01T12:50:02Z">May 1, 2019</relative-time>
         </span>
       </div>
 
@@ -934,7 +934,7 @@
         <details-dialog
           class="Box Box--overlay d-flex flex-column anim-fade-in fast"
           aria-label="Users who have contributed to this file"
-          src="/WlademirRenan/desafio-back-end/contributors/master/README.md/list" preload>
+          src="/WlademirRenan/desafio-back-end/contributors/master/CNAB.txt/list" preload>
           <div class="Box-header">
             <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
               <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
@@ -959,29 +959,29 @@
 <div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
-      81 lines (56 sloc)
+      22 lines (21 sloc)
       <span class="file-info-divider"></span>
-    3.95 KB
+    1.68 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/WlademirRenan/desafio-back-end/raw/master/README.md">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/WlademirRenan/desafio-back-end/blame/master/README.md">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/WlademirRenan/desafio-back-end/commits/master/README.md">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/WlademirRenan/desafio-back-end/raw/master/CNAB.txt">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/WlademirRenan/desafio-back-end/blame/master/CNAB.txt">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/WlademirRenan/desafio-back-end/commits/master/CNAB.txt">History</a>
     </div>
 
 
     <div>
 
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/WlademirRenan/desafio-back-end/edit/master/README.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="YmexqPDiad3KH+TjaPGPg1GAlYMu2sIsvxXQScD0SNAD1lBsvdd+xCSsKXBa+UzwyQK2rNIXzI9d3hGtgaJlyQ==" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/WlademirRenan/desafio-back-end/edit/master/CNAB.txt" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="tGXaD843CfhxSOq5OPgZlj8ktd2Z623nLtKuASNo32W3wLyjiFovm9DlxP19UzSRWaR2Wayb92GueXIN9501gQ==" />
               <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
                 aria-label="Edit this file" data-hotkey="e" data-disable-with>
                 <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
               </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/WlademirRenan/desafio-back-end/delete/master/README.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="hSHCiONRcRK153b/sIMrThoE81RFHUTCAkfOV+jwWLGwAcvbpK01aJOzzhxpKCgM/uuGV9zssVy2oOcmbEhhbQ==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/WlademirRenan/desafio-back-end/delete/master/CNAB.txt" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="+bt7AN5ZXS31NlFka8u0NDaVM09K103Y9vDDd9ajHcORwI3DqPM4/umTjnnK4FP0J514yedMO5KDPxmdoSZGrg==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete this file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -991,186 +991,109 @@
 </div>
 
       
-  <div id="readme" class="Box-body readme blob instapaper_body js-code-block-container">
-    <article class="markdown-body entry-content p-3 p-md-6" itemprop="text"><h1><a id="user-content-desafio-programação---para-vaga-back-end" class="anchor" aria-hidden="true" href="#desafio-programação---para-vaga-back-end"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Desafio programação - para vaga Back-end</h1>
-<p>Por favor leiam este documento do começo ao fim, com muita atenção.
-O intuito deste teste é avaliar seus conhecimentos técnicos com o back-end, para ser mais específico em Ruby.</p>
-<p>O teste consiste em parsear <a href="https://github.com/Pagnet/desafio-back-end/blob/master/CNAB.txt">este arquivo de texto(CNAB)</a> e salvar suas informações(transações financeiras) em uma base de dados a critério do candidato.</p>
-<p>Este desafio deve ser feito por você em sua casa. Gaste o tempo que você quiser, porém normalmente você não deve precisar de mais do que algumas horas.</p>
-<h1><a id="user-content-instruções-de-entrega-do-desafio" class="anchor" aria-hidden="true" href="#instruções-de-entrega-do-desafio"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Instruções de entrega do desafio</h1>
-<ol>
-<li>Primeiro, faça um fork deste projeto para sua conta no Github (crie uma se você não possuir).</li>
-<li>Em seguida, implemente o projeto tal qual descrito abaixo, em seu clone local.</li>
-<li>Por fim, envie via email um arquivo patch para seu contato na BLU.</li>
-</ol>
-<h1><a id="user-content-descrição-do-projeto" class="anchor" aria-hidden="true" href="#descrição-do-projeto"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Descrição do projeto</h1>
-<p>Você recebeu um arquivo CNAB com os dados das movimentações finanaceira de várias lojas.
-Precisamos criar uma maneira para que estes dados sejam importados para um banco de dados.</p>
-<p>Sua tarefa é criar uma interface web que aceite upload do <a href="https://github.com/Pagnet/desafio-back-end/blob/master/CNAB.txt">arquivo CNAB</a>, normalize os dados e armazene-os em um banco de dados relacional e exiba essas informações em tela.</p>
-<p><strong>Sua aplicação web DEVE:</strong></p>
-<ol>
-<li>Ter uma tela (via um formulário) para fazer o upload do arquivo</li>
-<li>Interpretar ("parsear") o arquivo recebido, normalizar os dados, e salvar corretamente a informação em um banco de dados relacional, <strong>se atente as documentações</strong> que estão logo abaixo.</li>
-<li>Exibir uma lista das operações importadas por lojas, e nesta lista deve conter um totalizador do saldo em conta</li>
-<li>Ser escrita obrigatoriamente em Ruby 2.0+</li>
-<li>Ser simples de configurar e rodar, funcionando em ambiente compatível com Unix (Linux ou Mac OS X). Ela deve utilizar apenas linguagens e bibliotecas livres ou gratuitas.</li>
-</ol>
-<p><strong>Sua aplicação web não precisa:</strong></p>
-<ol>
-<li>Lidar com autenticação ou autorização (pontos extras se ela fizer, mais pontos extras se a autenticação for feita via OAuth).</li>
-<li>Ser escrita usando algum framework específico (mas não há nada errado em usá-los também, use o que achar melhor).</li>
-</ol>
-<h1><a id="user-content-documentação-do-cnab" class="anchor" aria-hidden="true" href="#documentação-do-cnab"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Documentação do CNAB</h1>
-<table>
-<thead>
-<tr>
-<th>Descrição do campo</th>
-<th>Inicio</th>
-<th>Fim</th>
-<th>Tamanho</th>
-<th>Comentário</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Tipo</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>Tipo da transação</td>
-</tr>
-<tr>
-<td>Data</td>
-<td>2</td>
-<td>9</td>
-<td>8</td>
-<td>Data da ocorrência</td>
-</tr>
-<tr>
-<td>Valor</td>
-<td>10</td>
-<td>19</td>
-<td>10</td>
-<td>Valor da movimentação. <em>Obs.</em> O valor encontrado no arquivo precisa ser divido por cem(valor / 100.00) para normalizá-lo.</td>
-</tr>
-<tr>
-<td>CPF</td>
-<td>20</td>
-<td>30</td>
-<td>11</td>
-<td>CPF do beneficiário</td>
-</tr>
-<tr>
-<td>Cartão</td>
-<td>31</td>
-<td>42</td>
-<td>12</td>
-<td>Cartão utilizado na transação</td>
-</tr>
-<tr>
-<td>Hora</td>
-<td>43</td>
-<td>48</td>
-<td>6</td>
-<td>Hora da ocorrência atendendo ao fuso de UTC-3</td>
-</tr>
-<tr>
-<td>Dono da loja</td>
-<td>49</td>
-<td>62</td>
-<td>14</td>
-<td>Nome do representante da loja</td>
-</tr>
-<tr>
-<td>Nome loja</td>
-<td>63</td>
-<td>81</td>
-<td>19</td>
-<td>Nome da loja</td>
-</tr>
-</tbody>
+
+  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-text ">
+      
+<table class="highlight tab-size js-file-line-container" data-tab-size="8">
+      <tr>
+        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line">3201903010000014200096206760174753****3153153453JOÃO MACEDO   BAR DO JOÃO       </td>
+      </tr>
+      <tr>
+        <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line">5201903010000013200556418150633123****7687145607MARIA JOSEFINALOJA DO Ó - MATRIZ</td>
+      </tr>
+      <tr>
+        <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line">3201903010000012200845152540736777****1313172712MARCOS PEREIRAMERCADO DA AVENIDA</td>
+      </tr>
+      <tr>
+        <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line">2201903010000011200096206760173648****0099234234JOÃO MACEDO   BAR DO JOÃO       </td>
+      </tr>
+      <tr>
+        <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line">1201903010000015200096206760171234****7890233000JOÃO MACEDO   BAR DO JOÃO       </td>
+      </tr>
+      <tr>
+        <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line">2201903010000010700845152540738723****9987123333MARCOS PEREIRAMERCADO DA AVENIDA</td>
+      </tr>
+      <tr>
+        <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line">2201903010000050200845152540738473****1231231233MARCOS PEREIRAMERCADO DA AVENIDA</td>
+      </tr>
+      <tr>
+        <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
+        <td id="LC8" class="blob-code blob-code-inner js-file-line">3201903010000060200232702980566777****1313172712JOSÉ COSTA    MERCEARIA 3 IRMÃOS</td>
+      </tr>
+      <tr>
+        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line">1201903010000020000556418150631234****3324090002MARIA JOSEFINALOJA DO Ó - MATRIZ</td>
+      </tr>
+      <tr>
+        <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line">5201903010000080200845152540733123****7687145607MARCOS PEREIRAMERCADO DA AVENIDA</td>
+      </tr>
+      <tr>
+        <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line">2201903010000010200232702980568473****1231231233JOSÉ COSTA    MERCEARIA 3 IRMÃOS</td>
+      </tr>
+      <tr>
+        <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
+        <td id="LC12" class="blob-code blob-code-inner js-file-line">3201903010000610200232702980566777****1313172712JOSÉ COSTA    MERCEARIA 3 IRMÃOS</td>
+      </tr>
+      <tr>
+        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
+        <td id="LC13" class="blob-code blob-code-inner js-file-line">4201903010000015232556418150631234****6678100000MARIA JOSEFINALOJA DO Ó - FILIAL</td>
+      </tr>
+      <tr>
+        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
+        <td id="LC14" class="blob-code blob-code-inner js-file-line">8201903010000010203845152540732344****1222123222MARCOS PEREIRAMERCADO DA AVENIDA</td>
+      </tr>
+      <tr>
+        <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
+        <td id="LC15" class="blob-code blob-code-inner js-file-line">3201903010000010300232702980566777****1313172712JOSÉ COSTA    MERCEARIA 3 IRMÃOS</td>
+      </tr>
+      <tr>
+        <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
+        <td id="LC16" class="blob-code blob-code-inner js-file-line">9201903010000010200556418150636228****9090000000MARIA JOSEFINALOJA DO Ó - MATRIZ</td>
+      </tr>
+      <tr>
+        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
+        <td id="LC17" class="blob-code blob-code-inner js-file-line">4201906010000050617845152540731234****2231100000MARCOS PEREIRAMERCADO DA AVENIDA</td>
+      </tr>
+      <tr>
+        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
+        <td id="LC18" class="blob-code blob-code-inner js-file-line">2201903010000010900232702980568723****9987123333JOSÉ COSTA    MERCEARIA 3 IRMÃOS</td>
+      </tr>
+      <tr>
+        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
+        <td id="LC19" class="blob-code blob-code-inner js-file-line">8201903010000000200845152540732344****1222123222MARCOS PEREIRAMERCADO DA AVENIDA</td>
+      </tr>
+      <tr>
+        <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
+        <td id="LC20" class="blob-code blob-code-inner js-file-line">2201903010000000500232702980567677****8778141808JOSÉ COSTA    MERCEARIA 3 IRMÃOS</td>
+      </tr>
+      <tr>
+        <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
+        <td id="LC21" class="blob-code blob-code-inner js-file-line">3201903010000019200845152540736777****1313172712MARCOS PEREIRAMERCADO DA AVENIDA</td>
+      </tr>
 </table>
-<h1><a id="user-content-documentação-sobre-os-tipos-das-transações" class="anchor" aria-hidden="true" href="#documentação-sobre-os-tipos-das-transações"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Documentação sobre os tipos das transações</h1>
-<table>
-<thead>
-<tr>
-<th>Tipo</th>
-<th>Descrição</th>
-<th>Natureza</th>
-<th>Sinal</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1</td>
-<td>Débito</td>
-<td>Entrada</td>
-<td>+</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Boleto</td>
-<td>Saída</td>
-<td>-</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Financiamento</td>
-<td>Saída</td>
-<td>-</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Crédito</td>
-<td>Entrada</td>
-<td>+</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Recebimento Empréstimo</td>
-<td>Entrada</td>
-<td>+</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Vendas</td>
-<td>Entrada</td>
-<td>+</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Recebimento TED</td>
-<td>Entrada</td>
-<td>+</td>
-</tr>
-<tr>
-<td>8</td>
-<td>Recebimento DOC</td>
-<td>Entrada</td>
-<td>+</td>
-</tr>
-<tr>
-<td>9</td>
-<td>Aluguel</td>
-<td>Saída</td>
-<td>-</td>
-</tr>
-</tbody>
-</table>
-<h1><a id="user-content-avaliação" class="anchor" aria-hidden="true" href="#avaliação"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Avaliação</h1>
-<p>Seu projeto será avaliado de acordo com os seguintes critérios.</p>
-<ol>
-<li>Sua aplicação preenche os requerimentos básicos?</li>
-<li>Você documentou a maneira de configurar o ambiente e rodar sua aplicação?</li>
-<li>Você seguiu as instruções de envio do desafio?</li>
-<li>Qualidade e cobertura dos testes unitários.</li>
-</ol>
-<p>Adicionalmente, tentaremos verificar a sua familiarização com as bibliotecas padrões (standard libs), bem como sua experiência com programação orientada a objetos a partir da estrutura de seu projeto.</p>
-<h1><a id="user-content-referência" class="anchor" aria-hidden="true" href="#referência"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Referência</h1>
-<p>Este desafio foi baseado neste outro desafio: <a href="https://github.com/lschallenges/data-engineering">https://github.com/lschallenges/data-engineering</a></p>
-<hr>
-<p>Boa sorte!</p>
-</article>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 bg-white border border-gray-dark rounded-1" aria-label="Inline file action toolbar">
+      <svg class="octicon octicon-kebab-horizontal" viewBox="0 0 13 16" version="1.1" width="13" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm5 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zM13 7.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0z"/></svg>
+    </summary>
+    <details-menu>
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2" style="width:185px">
+        <li><clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" data-original-text="Copy lines">Copy lines</clipboard-copy></li>
+        <li><clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" data-original-text="Copy permalink">Copy permalink</clipboard-copy></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/WlademirRenan/desafio-back-end/blame/ffe7d8198ed73a033ec7acb3ec7ee624db7cdd8f/CNAB.txt">View git blame</a></li>
+      </ul>
+    </details-menu>
+  </details>
+
   </div>
 
     </div>
@@ -1202,7 +1125,7 @@ Precisamos criar uma maneira para que estes dados sejam importados para um banco
 <div class="footer container-lg width-full p-responsive" role="contentinfo">
   <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
-      <li class="mr-3 mr-lg-0">&copy; 2019 <span title="0.38523s from unicorn-5f9498c759-rtskt">GitHub</span>, Inc.</li>
+      <li class="mr-3 mr-lg-0">&copy; 2019 <span title="0.39177s from unicorn-5f9498c759-sm5m4">GitHub</span>, Inc.</li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
