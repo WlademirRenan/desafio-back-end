@@ -11,8 +11,10 @@ class FinanceTransactionService
     attr_accessor :file, :lines, :errors
   
     def call
-      validate_transference
-      Transference.create(transfer_params) if errors.empty?
+      #validate_transference
+      @lines.each do |line|
+        CreateTransactionService.new(line)
+      end
     end
   
     def transfer_params
