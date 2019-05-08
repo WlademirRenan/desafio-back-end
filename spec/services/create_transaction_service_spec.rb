@@ -29,4 +29,47 @@ RSpec.describe CreateTransactionService, type: :model do
     end
   end
 
+  context 'when invalid dates' do
+    it 'type nil' do
+      @transaction.type = nil
+      @transaction.call
+      expect(@transaction.errors).to eq ['tipo é requerido']
+    end
+    it 'date nil' do
+      @transaction.date = nil
+      @transaction.call
+      expect(@transaction.errors).to eq ['data é requerida']
+    end
+    it 'value nil' do
+      @transaction.value = nil
+      @transaction.call
+      expect(@transaction.errors).to eq ['valor é requerido']
+    end
+    it 'cpf nil' do
+      @transaction.cpf = nil
+      @transaction.call
+      expect(@transaction.errors).to eq ['cpf é requerido']
+    end
+    it 'card nil' do
+      @transaction.card = nil
+      @transaction.call
+      expect(@transaction.errors).to eq ['cartão é requerido']
+    end
+    it 'hour nil' do
+      @transaction.hour = nil
+      @transaction.call
+      expect(@transaction.errors).to eq ['horário é requerido']
+    end
+    it 'shop_owner nil' do
+      @transaction.shop_owner = nil
+      @transaction.call
+      expect(@transaction.errors).to eq ['dono da loja é requerido']
+    end
+    it 'shop_name nil' do
+      @transaction.shop_name = nil
+      @transaction.call
+      expect(@transaction.errors).to eq ['nome da loja é requerido']
+    end
+  end
+
 end

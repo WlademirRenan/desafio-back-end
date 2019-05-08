@@ -15,6 +15,19 @@ class CreateTransactionService
   attr_accessor :type, :date, :value, :cpf, :card, :hour, :shop_owner, :shop_name, :errors
 
   def call
-
+    validate_fields
+    #Finance.create(type: @type, date: @date, value: @value, cpf: @cpf, card: @card)
   end
+
+  def validate_fields
+    @errors << 'tipo é requerido' if @type.blank?
+    @errors << 'data é requerida' if @date.blank?
+    @errors << 'valor é requerido' if @value.blank?
+    @errors << 'cpf é requerido' if @cpf.blank?
+    @errors << 'cartão é requerido' if @card.blank?
+    @errors << 'horário é requerido' if @hour.blank?
+    @errors << 'dono da loja é requerido' if @shop_owner.blank?
+    @errors << 'nome da loja é requerido' if @shop_name.blank?
+  end
+
 end
