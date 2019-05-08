@@ -1,7 +1,7 @@
 class CreateTransactionService
 
   def initialize(line)
-    @type       = line.slice(0, 1) 
+    @operation  = line.slice(0, 1) 
     @date       = line.slice(1, 8)
     @value      = line.slice(9, 10)
     @cpf        = line.slice(19, 11)
@@ -12,17 +12,17 @@ class CreateTransactionService
     @errors     = []
   end
 
-  attr_accessor :type, :date, :value, :cpf, :card, :hour, :shop_owner, :shop_name, :errors
+  attr_accessor :operation, :date, :value, :cpf, :card, :hour, :shop_owner, :shop_name, :errors
 
   def call
     validate_fields
     if @errors.empty?
-      Finance.create(type: @type, datetime: format_date_time, value: format_value, cpf: @cpf, card: @card, shop_id: get_shop_id)
+      Finance.create(operation: @operation.to_i, datetime: format_date_time, value: format_value, cpf: @cpf, card: @card, shop_id: get_shop_id)
     end
   end
 
   def validate_fields
-    @errors << 'tipo é requerido' if @type.blank?
+    @errors << 'tipo é requerido' if @operation.blank?
     @errors << 'data é requerida' if @date.blank?
     @errors << 'valor é requerido' if @value.blank?
     @errors << 'cpf é requerido' if @cpf.blank?

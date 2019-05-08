@@ -6,7 +6,7 @@ class FinanceController < ApplicationController
   end
 
   def create
-    @finance_transaction = FinanceTransactionService.new(finance_params)
+    @finance_transaction = ::FinanceTransactionService.new(finance_params)
     @finance_transaction.call
     if @finance_transaction.errors.empty?
       render json: @finance_transaction, status: :created

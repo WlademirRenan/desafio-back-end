@@ -7,7 +7,7 @@ RSpec.describe CreateTransactionService, type: :model do
 
   context 'when parse date valid' do
     it 'valid contains' do
-      expect(@transaction.type).to eq '3'
+      expect(@transaction.operation).to eq '3'
       expect(@transaction.date).to eq '20190301'
       expect(@transaction.value).to eq '0000014200'
       expect(@transaction.cpf).to eq '09620676017'
@@ -18,7 +18,7 @@ RSpec.describe CreateTransactionService, type: :model do
     end
 
     it 'valid size' do
-      expect(@transaction.type.size).to eq 1
+      expect(@transaction.operation.size).to eq 1
       expect(@transaction.date.size).to eq 8
       expect(@transaction.value.size).to eq 10
       expect(@transaction.cpf.size).to eq 11
@@ -30,8 +30,8 @@ RSpec.describe CreateTransactionService, type: :model do
   end
 
   context 'when invalid dates' do
-    it 'type nil' do
-      @transaction.type = nil
+    it 'operation nil' do
+      @transaction.operation = nil
       @transaction.call
       expect(@transaction.errors).to eq ['tipo é requerido']
     end

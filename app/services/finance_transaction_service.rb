@@ -11,9 +11,10 @@ class FinanceTransactionService
     attr_accessor :file, :lines, :errors
   
     def call
-      #validate_transference
       @lines.each do |line|
-        CreateTransactionService.new(line)
+        transaction = CreateTransactionService.new(line)
+        transaction.call
+        @errors.concat transaction.errors
       end
     end
   end
