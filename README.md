@@ -1,3 +1,25 @@
+# Instruções para iniciar o projeto
+
+Clone o repositorio
+gem install bundler
+bundle
+rails db:create
+rails db:migrate
+rails db:seed
+rails s
+
+acesse localhost:3000
+
+username: admin
+password: 123456
+
+no menu da esquerda
+
+Menu - Importar Transações, acessa tela para upload de arquivo
+Menu - Visualizar Transações, acessa tela que exibe lojas cadastradas e em detalhes mostra as transacoes e saldo final
+
+
+
 # Desafio programação - para vaga Back-end
 
 Por favor leiam este documento do começo ao fim, com muita atenção.
