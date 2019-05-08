@@ -15,6 +15,10 @@ class FinanceController < ApplicationController
     end
   end
 
+  def transactions
+    @shops = Shop.all
+  end
+
   private
     # Only allow a trusted parameter "white list" through.
     def finance_params
