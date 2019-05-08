@@ -9,14 +9,21 @@ class FinanceController < ApplicationController
     @finance_transaction = ::FinanceTransactionService.new(finance_params)
     @finance_transaction.call
     if @finance_transaction.errors.empty?
-      render json: @finance_transaction, status: :created
+      render :index
     else
-      render json: @finance_transaction, status: :unprocessable_entity
+      flash[:message] = @finance_transaction.errors
+      render :index
     end
   end
 
   def transactions
     @shops = Shop.all
+  end
+
+  def show
+    @shop = Shop.where(id: params[:id]).first
+    @finances = @shop.finances
+    @total = @shop.calculate_total
   end
 
   private

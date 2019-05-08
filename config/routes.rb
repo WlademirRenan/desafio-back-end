@@ -5,6 +5,7 @@ Rails.application.routes.draw do
   get '/finance' => 'finance#index'
   post '/finance' => 'finance#create'
   get '/transactions' => 'finance#transactions'
+  get '/shop/:id' => 'finance#show'
   #resources :users
   #get    'sign_in'   => 'sessions#new'
   #post   'sign_in'   => 'sessions#create'

@@ -1,19 +1,19 @@
 <div class='row'>
-    <div class='col-md-4'>Nome da Loja</div>
-    <div class='col-md-4'>Nome do Dono</div>
-    <div class='col-md-4'>Funções</div>
+  <div class='col-md-4'>Nome da Loja</div>
+  <div class='col-md-4'>Nome do Dono</div>
+  <div class='col-md-4'>Funções</div>
 <hr>
 </div>
 <% @shops.each do |shop| %>
-    <div class='row'>
-        <div class='col-md-4'>
-            <%= shop.name %>
-        </div>
-        <div class='col-md-4'>
-            <%= shop.owner%>
-        </div>
-        <div class='col-md-4'>
-            detalhes
-        </div>
+  <div class='row'>
+    <div class='col-md-4'>
+      <%= shop.name %>
     </div>
+    <div class='col-md-4'>
+      <%= shop.owner%>
+    </div>
+    <div class='col-md-4'>
+      <%= link_to 'detalhes', "/shop/#{shop.id}" %>
+    </div>
+  </div>
 <% end %>
