@@ -77,7 +77,7 @@ RSpec.describe CreateTransactionService, type: :model do
       expect(@transaction.format_value).to eq 142.0
     end
     it 'format_date_time' do
-      expect(@transaction.format_date_time).to eq '20190301 153453'
+      expect(@transaction.format_date_time).to eq '20190301 153453 -0300'
     end
     it 'get_shop_id' do
       shop = Shop.create(owner: @transaction.shop_owner.squish, name: @transaction.shop_name.squish)

@@ -42,7 +42,7 @@ class CreateTransactionService
   end
 
   def format_date_time
-    "#{@date} #{@hour}"
+    "#{@date} #{@hour} -0300"
   end
 
 end
