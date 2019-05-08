@@ -16,7 +16,9 @@ class CreateTransactionService
 
   def call
     validate_fields
-    #Finance.create(type: @type, date: @date, value: @value, cpf: @cpf, card: @card)
+    if @errors.empty?
+      Finance.create(type: @type, datetime: format_date_time, value: format_value, cpf: @cpf, card: @card, shop_id: get_shop_id)
+    end
   end
 
   def validate_fields
@@ -28,6 +30,19 @@ class CreateTransactionService
     @errors << 'horário é requerido' if @hour.blank?
     @errors << 'dono da loja é requerido' if @shop_owner.blank?
     @errors << 'nome da loja é requerido' if @shop_name.blank?
+  end
+
+  def get_shop_id
+    shop = Shop.where(name: @shop_name.squish, owner: @shop_owner.squish).first_or_create
+    shop.id
+  end
+
+  def format_value
+    @value.to_f / 100.00
+  end
+
+  def format_date_time
+    "#{@date} #{@hour}"
   end
 
 end
